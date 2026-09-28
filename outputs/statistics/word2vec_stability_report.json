@@ -1,0 +1,266 @@
+{
+  "violencia_economica": {
+    "mean_jaccard_at_10": 0.474,
+    "stability_status": "MODERATELY_STABLE",
+    "consensus_neighbors": [
+      {
+        "term": "cuanto",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9178,
+        "std_cosine_similarity": 0.0132
+      },
+      {
+        "term": "sometida",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.869,
+        "std_cosine_similarity": 0.0144
+      },
+      {
+        "term": "señor",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8552,
+        "std_cosine_similarity": 0.0175
+      },
+      {
+        "term": "norma",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8671,
+        "std_cosine_similarity": 0.0146
+      },
+      {
+        "term": "tutela",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8625,
+        "std_cosine_similarity": 0.0195
+      },
+      {
+        "term": "existencia",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8558,
+        "std_cosine_similarity": 0.0229
+      },
+      {
+        "term": "consideró",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8501,
+        "std_cosine_similarity": 0.0161
+      },
+      {
+        "term": "alimentos",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.8548,
+        "std_cosine_similarity": 0.0104
+      },
+      {
+        "term": "deberes",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.8479,
+        "std_cosine_similarity": 0.01
+      },
+      {
+        "term": "fiscalía",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.844,
+        "std_cosine_similarity": 0.0195
+      }
+    ]
+  },
+  "patrimonio": {
+    "mean_jaccard_at_10": 0.8576,
+    "stability_status": "STABLE",
+    "consensus_neighbors": [
+      {
+        "term": "histórica",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9343,
+        "std_cosine_similarity": 0.0129
+      },
+      {
+        "term": "tierra",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9309,
+        "std_cosine_similarity": 0.0049
+      },
+      {
+        "term": "propiedad",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9248,
+        "std_cosine_similarity": 0.0067
+      },
+      {
+        "term": "inmuebles",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9117,
+        "std_cosine_similarity": 0.0054
+      },
+      {
+        "term": "futuro",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9058,
+        "std_cosine_similarity": 0.008
+      },
+      {
+        "term": "hacia",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.901,
+        "std_cosine_similarity": 0.01
+      },
+      {
+        "term": "despojadas",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8888,
+        "std_cosine_similarity": 0.0051
+      },
+      {
+        "term": "posición",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.875,
+        "std_cosine_similarity": 0.0061
+      },
+      {
+        "term": "protección",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8564,
+        "std_cosine_similarity": 0.0099
+      },
+      {
+        "term": "dada",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8515,
+        "std_cosine_similarity": 0.0081
+      }
+    ]
+  },
+  "dependencia": {
+    "mean_jaccard_at_10": 0.3491,
+    "stability_status": "UNSTABLE",
+    "consensus_neighbors": [
+      {
+        "term": "dio",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9528,
+        "std_cosine_similarity": 0.0055
+      },
+      {
+        "term": "madre",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9454,
+        "std_cosine_similarity": 0.008
+      },
+      {
+        "term": "legal",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.9453,
+        "std_cosine_similarity": 0.0081
+      },
+      {
+        "term": "pasar",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.9374,
+        "std_cosine_similarity": 0.0063
+      },
+      {
+        "term": "desvirtúa",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.9368,
+        "std_cosine_similarity": 0.0103
+      },
+      {
+        "term": "suficientemente",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.9362,
+        "std_cosine_similarity": 0.0105
+      },
+      {
+        "term": "respecto",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.932,
+        "std_cosine_similarity": 0.0093
+      },
+      {
+        "term": "concepto",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.9306,
+        "std_cosine_similarity": 0.0051
+      },
+      {
+        "term": "voluntad",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.9289,
+        "std_cosine_similarity": 0.0028
+      },
+      {
+        "term": "dos",
+        "seed_agreement": "2/5",
+        "mean_cosine_similarity": 0.9318,
+        "std_cosine_similarity": 0.007
+      }
+    ]
+  },
+  "violencia_patrimonial": {
+    "mean_jaccard_at_10": 0.6026,
+    "stability_status": "STABLE",
+    "consensus_neighbors": [
+      {
+        "term": "financiero",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8895,
+        "std_cosine_similarity": 0.0075
+      },
+      {
+        "term": "apoyo",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8522,
+        "std_cosine_similarity": 0.0117
+      },
+      {
+        "term": "hombres",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8521,
+        "std_cosine_similarity": 0.0109
+      },
+      {
+        "term": "quitarle",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.8514,
+        "std_cosine_similarity": 0.0088
+      },
+      {
+        "term": "utiliza",
+        "seed_agreement": "5/5",
+        "mean_cosine_similarity": 0.839,
+        "std_cosine_similarity": 0.0135
+      },
+      {
+        "term": "reportaron",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8409,
+        "std_cosine_similarity": 0.0084
+      },
+      {
+        "term": "sufrido",
+        "seed_agreement": "4/5",
+        "mean_cosine_similarity": 0.8403,
+        "std_cosine_similarity": 0.0136
+      },
+      {
+        "term": "víctima",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.8438,
+        "std_cosine_similarity": 0.0067
+      },
+      {
+        "term": "amenazó",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.8345,
+        "std_cosine_similarity": 0.0008
+      },
+      {
+        "term": "pareja",
+        "seed_agreement": "3/5",
+        "mean_cosine_similarity": 0.8337,
+        "std_cosine_similarity": 0.0085
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "outcome_variable": "econ_moderate_sents",
+  "results": {
+    "2005": {
+      "level_p": 0.1213,
+      "level_irr": 5.7908,
+      "slope_p": 0.4289,
+      "slope_irr": 0.6622
+    },
+    "2006": {
+      "level_p": 0.3527,
+      "level_irr": 3.9188,
+      "slope_p": 0.426,
+      "slope_irr": 0.6674
+    },
+    "2007": {
+      "level_p": 0.6111,
+      "level_irr": 2.6156,
+      "slope_p": 0.426,
+      "slope_irr": 0.6674
+    },
+    "2009": {
+      "level_p": 0.0553,
+      "level_irr": 0.1389,
+      "slope_p": 0.0095,
+      "slope_irr": 0.5906
+    },
+    "2010": {
+      "level_p": 0.1711,
+      "level_irr": 0.179,
+      "slope_p": 0.0886,
+      "slope_irr": 0.7124
+    },
+    "2011": {
+      "level_p": 0.3381,
+      "level_irr": 0.2997,
+      "slope_p": 0.2323,
+      "slope_irr": 0.8096
+    }
+  }
+}

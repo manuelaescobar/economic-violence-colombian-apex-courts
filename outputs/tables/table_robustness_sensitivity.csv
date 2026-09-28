@@ -1,0 +1,4 @@
+definition_level,description,n_sentences,sentence_prevalence_pct,n_documents,document_prevalence_pct,gold_precision,gold_recall,gold_f1,its_level_change_irr,its_level_change_p,its_slope_change_irr,its_slope_change_p,status
+STRICT,Explicit autonomous mentions of economic/patrimonial violence only,164,0.061,50,11.04,0.96,0.8276,0.8889,0.3943,0.3998,0.0006,0.9744,HIGH_PRECISION_ROBUST
+MODERATE,Specific economic harm + contextual gender indicators,233,0.086,89,19.65,0.58,1.0,0.7342,0.1126,0.003,0.4837,0.0,BALANCED_OPTIMAL_CONSTRUCT
+BROAD,All economic/patrimonial/labor/alimony stems in gender rulings,4634,1.719,351,77.48,0.3867,1.0,0.5577,0.6813,0.4392,1.0277,0.634,HIGH_RECALL_NOISY

@@ -1,0 +1,50 @@
+[
+  {
+    "definition_level": "STRICT",
+    "description": "Explicit autonomous mentions of economic/patrimonial violence only",
+    "n_sentences": 164,
+    "sentence_prevalence_pct": 0.061,
+    "n_documents": 50,
+    "document_prevalence_pct": 11.04,
+    "gold_precision": 0.96,
+    "gold_recall": 0.8276,
+    "gold_f1": 0.8889,
+    "its_level_change_irr": 0.3943,
+    "its_level_change_p": 0.3998,
+    "its_slope_change_irr": 0.0006,
+    "its_slope_change_p": 0.9744,
+    "status": "HIGH_PRECISION_ROBUST"
+  },
+  {
+    "definition_level": "MODERATE",
+    "description": "Specific economic harm + contextual gender indicators",
+    "n_sentences": 233,
+    "sentence_prevalence_pct": 0.086,
+    "n_documents": 89,
+    "document_prevalence_pct": 19.65,
+    "gold_precision": 0.58,
+    "gold_recall": 1.0,
+    "gold_f1": 0.7342,
+    "its_level_change_irr": 0.1126,
+    "its_level_change_p": 0.003,
+    "its_slope_change_irr": 0.4837,
+    "its_slope_change_p": 0.0,
+    "status": "BALANCED_OPTIMAL_CONSTRUCT"
+  },
+  {
+    "definition_level": "BROAD",
+    "description": "All economic/patrimonial/labor/alimony stems in gender rulings",
+    "n_sentences": 4634,
+    "sentence_prevalence_pct": 1.719,
+    "n_documents": 351,
+    "document_prevalence_pct": 77.48,
+    "gold_precision": 0.3867,
+    "gold_recall": 1.0,
+    "gold_f1": 0.5577,
+    "its_level_change_irr": 0.6813,
+    "its_level_change_p": 0.4392,
+    "its_slope_change_irr": 1.0277,
+    "its_slope_change_p": 0.634,
+    "status": "HIGH_RECALL_NOISY"
+  }
+]

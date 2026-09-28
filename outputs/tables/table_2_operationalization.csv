@@ -1,0 +1,4 @@
+Construct Level,Conceptual Definition,Operational Rule,Gold Precision,Gold Recall,Gold F1
+STRICT,Autonomous explicit legal terms designating gender-based economic/patrimonial violence,"Regex match on 'violencia económica', 'violencia patrimonial', 'despojo patrimonial', 'control económico'",0.96,0.8276,0.8889
+MODERATE,Specific economic deprivation/coercion combined with validated gender vulnerability indicators,Strict terms OR (economic dependency/coercion/asphyxia + gender/victim co-occurrence),0.58,1.0,0.7342
+BROAD,"All patrimonial, labor, alimony, and marital property stems appearing in gender rulings","Generic roots (bienes, laboral, ingres, cuota, alimentos) in gender sentences",0.3867,1.0,0.5577

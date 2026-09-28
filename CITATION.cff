@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: >-
+  Three Courts, Three Doctrines: Institutional Channeling of Economic
+  Violence Against Women in Colombian Apex Courts Jurisprudence
+  (1992-2024) - data and code
+type: dataset
+authors:
+  - family-names: Pacheco-Ortiz
+    given-names: Diana
+    orcid: "https://orcid.org/0000-0001-7409-006X"
+  - family-names: Escobar-Sierra
+    given-names: Manuela
+    orcid: "https://orcid.org/0000-0003-1865-6238"
+  - family-names: Rendón Zapata
+    given-names: Stephanie
+    orcid: "https://orcid.org/0000-0002-2359-0205"
+version: v1.0-hssc-minor-revision
+date-released: "2026-09-28"
+license: MIT
+repository-code: "https://github.com/manuelaescobar/economic-violence-colombian-apex-courts"
+keywords:
+  - economic violence
+  - judicial discourse analysis
+  - computational legal studies
+  - Colombia
+  - apex courts

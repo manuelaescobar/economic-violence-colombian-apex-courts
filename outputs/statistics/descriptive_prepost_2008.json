@@ -1,0 +1,32 @@
+{
+  "STRICT": {
+    "pre_2008_docs_with_tier": 2,
+    "pre_2008_docs_total": 20,
+    "pre_2008_prevalence_pct": 10.0,
+    "post_2008_docs_with_tier": 48,
+    "post_2008_docs_total": 430,
+    "post_2008_prevalence_pct": 11.16,
+    "fisher_odds_ratio": 0.8843,
+    "fisher_p_value": 1.0
+  },
+  "MODERATE": {
+    "pre_2008_docs_with_tier": 3,
+    "pre_2008_docs_total": 20,
+    "pre_2008_prevalence_pct": 15.0,
+    "post_2008_docs_with_tier": 85,
+    "post_2008_docs_total": 430,
+    "post_2008_prevalence_pct": 19.77,
+    "fisher_odds_ratio": 0.7163,
+    "fisher_p_value": 0.777
+  },
+  "BROAD": {
+    "pre_2008_docs_with_tier": 18,
+    "pre_2008_docs_total": 20,
+    "pre_2008_prevalence_pct": 90.0,
+    "post_2008_docs_with_tier": 330,
+    "post_2008_docs_total": 430,
+    "post_2008_prevalence_pct": 76.74,
+    "fisher_odds_ratio": 2.7273,
+    "fisher_p_value": 0.2718
+  }
+}

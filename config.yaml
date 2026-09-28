@@ -1,0 +1,41 @@
+# Configuración general del proyecto de Violencia Económica y Patrimonial
+
+corpus:
+  raw_dir: "BD_completa"
+  min_file_size_bytes: 100
+  encoding: "utf-8"
+
+nlp:
+  language: "es"
+  spacy_model: "es_core_news_sm"
+  sentence_min_len: 25
+  word2vec:
+    vector_size: 150
+    window: 5
+    min_count: 5
+    sg: 1
+    epochs: 20
+    workers: 1 # Strictly deterministic for scientific reproducibility
+    seeds: [1, 7, 21, 42, 100]
+    top_k_neighbors: 10
+
+temporal:
+  law_1257_year: 2008
+  min_year: 1992
+  max_year: 2024
+  placebo_years: [2005, 2006, 2007, 2009, 2010, 2011]
+
+institutional:
+  courts:
+    - "Corte Constitucional"
+    - "Corte Suprema de Justicia"
+    - "Consejo de Estado"
+  bootstrap_resamples: 1000
+  significance_alpha: 0.05
+  min_term_doc_frequency: 5
+
+paths:
+  master_documents: "data/master_documents.parquet"
+  master_sentences: "data/master_sentences.parquet"
+  gold_standard: "data/gold_standard_annotations.parquet"
+  outputs_dir: "outputs"

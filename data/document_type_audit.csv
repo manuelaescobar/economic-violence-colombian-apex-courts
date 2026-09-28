@@ -1,0 +1,1041 @@
+document_id,raw_filename,court,court_source,decision_year,auto_label,auto_confidence,has_econ_strict,has_econ_moderate,has_econ_broad,decision_humana,motivo
+DOC_0000,2. record_0 (777).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0001,2. record_0 (562).txt,Corte Constitucional,TEXT_MENTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0002,3.record_0 (327).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0003,3.record_0 (549).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0004,2. record_0 (161).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0005,1.record_0 (370).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0006,3.record_0 (201).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0007,1.record_0 (155).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0008,2. record_0 (429).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0009,3.record_0 (624).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0010,2. record_0 (142).txt,Otras Entidades,FALLBACK,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0011,1.record_0 (208).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,1991.0,BROKEN_OR_EMPTY,HIGH,False,False,False,EXCLUIR,auto: broken_or_empty de alta confianza
+DOC_0012,3.record_0 (689).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0013,1.record_0 (424).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2012.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0014,1.record_0 (97).txt,Otras Entidades,FALLBACK,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0015,3.record_0 (1664).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0016,2. record_0 (746).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0017,1.record_0 (26).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0018,2. record_0 (456).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0019,2. record_0 (1353).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0020,2. record_0 (936).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0021,1.record_0 (10).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0022,2. record_0 (392).txt,Corte Constitucional,TEXT_MENTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0023,3.record_0 (740).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0024,1.record_0 (134).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0025,3.record_0 (597).txt,Corte Constitucional,TEXT_MENTION_HEADER,2004.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0026,3.record_0 (1761).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0027,3.record_0 (383).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0028,1.record_0 (112).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0029,2. record_0 (257).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0030,3.record_0 (827).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0031,2. record_0 (775).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0032,1.record_0 (415).txt,Corte Constitucional,TEXT_MENTION_HEADER,,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0033,3.record_0 (635).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0034,2. record_0 (20).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0035,3.record_0 (1458).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0036,3.record_0 (950).txt,Otras Entidades,FALLBACK,2012.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0037,3.record_0 (60).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0038,1.record_0 (22).txt,Otras Entidades,FALLBACK,2016.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0039,3.record_0 (1236).txt,Otras Entidades,FALLBACK,2019.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0040,3.record_0 (876).txt,Consejo de Estado,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0041,1.record_0 (275).txt,Otras Entidades,FALLBACK,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0042,3.record_0 (838).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0043,3.record_0 (153).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0044,1.record_0 (11).txt,Otras Entidades,FALLBACK,2014.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0045,2. record_0 (247).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0046,3.record_0 (1217).txt,Otras Entidades,INSTITUTION_HEADER,2005.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0047,2. record_0 (32).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0048,3.record_0 (560).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0049,3.record_0 (364).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0050,3.record_0 (165).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0051,3.record_0 (1161).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0052,3.record_0 (32).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0053,1.record_0 (282).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0054,3.record_0 (72).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0055,2. record_0 (206).txt,Otras Entidades,FALLBACK,2000.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0056,6.record_0 (23).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0057,1.record_0 (110).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0058,3.record_0 (871).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0059,3.record_0 (1471).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0060,2. record_0 (218).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0061,2. record_0 (482).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0062,2. record_0 (671).txt,Otras Entidades,FALLBACK,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0063,3.record_0 (244).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0064,3.record_0 (528).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0065,3.record_0 (849).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0066,3.record_0 (1930).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0067,3.record_0 (737).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0068,2. record_0 (366).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0069,3.record_0 (705).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0070,1.record_0 (384).txt,Otras Entidades,FALLBACK,2009.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0071,1.record_0 (150).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0072,3.record_0 (812).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0073,3.record_0 (1020).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0074,1.record_0 (219).txt,Otras Entidades,FALLBACK,2015.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0075,2. record_0 (806).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0076,2. record_0 (186).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0077,1.record_0 (507).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0078,5. (61).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0079,3.record_0 (1256).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0080,2. record_0 (547).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0081,3.record_0 (150).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0082,3.record_0 (74).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0083,2. record_0 (149).txt,Otras Entidades,FALLBACK,2004.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0084,1.record_0 (185).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0085,1.record_0 (240).txt,Consejo de Estado,INSTITUTION_HEADER,,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0086,3.record_0 (421).txt,Consejo de Estado,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0087,1.record_0 (147).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0088,3.record_0 (1443).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0089,2. record_0 (1041).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2009.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0090,2. record_0 (635).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0091,1.record_0 (36).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0092,2. record_0 (667).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0093,3.record_0 (58).txt,Otras Entidades,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0094,3.record_0 (1157).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0095,2. record_0 (966).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0096,3.record_0 (910).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0097,1.record_0 (67).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0098,6.record_0 (14).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0099,2. record_0 (1104).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0100,1.record_0 (42).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0101,1.record_0 (164).txt,Corte Constitucional,TEXT_MENTION_HEADER,1996.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0102,2. record_0 (108).txt,Corte Constitucional,TEXT_MENTION_HEADER,2006.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0103,2. record_0 (830).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2011.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0104,2. record_0 (672).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0105,3.record_0 (1575).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0106,3.record_0 (145).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0107,2. record_0 (745).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0108,2. record_0 (19).txt,Otras Entidades,FALLBACK,2010.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0109,3.record_0 (687).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0110,3.record_0 (540).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0111,3.record_0 (1855).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0112,3.record_0 (300).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0113,2. record_0 (5).txt,Otras Entidades,FALLBACK,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0114,2. record_0 (172).txt,Corte Constitucional,TEXT_MENTION_HEADER,2005.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0115,1.record_0 (204).txt,Otras Entidades,FALLBACK,2016.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0116,2. record_0 (536).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0117,3.record_0 (326).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0118,3.record_0 (1284).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0119,3.record_0 (781).txt,Otras Entidades,INSTITUTION_HEADER,,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0120,2. record_0 (1370).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0121,2. record_0 (774).txt,Otras Entidades,FALLBACK,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0122,3.record_0 (1380).txt,Otras Entidades,FALLBACK,2014.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0123,3.record_0 (226).txt,Otras Entidades,FALLBACK,2000.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0124,2. record_0 (492).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0125,2. record_0 (97).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0126,6.record_0 (135).txt,Otras Entidades,FALLBACK,2019.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0127,3.record_0 (891).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0128,3.record_0 (346).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0129,3.record_0 (1838).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0130,2. record_0 (1012).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0131,1.record_0 (238).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0132,3.record_0 (948).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0133,4. (15).txt,Otras Entidades,FALLBACK,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0134,3.record_0 (702).txt,Otras Entidades,FALLBACK,1981.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0135,2. record_0 (702).txt,Otras Entidades,FALLBACK,2009.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0136,6.record_0 (11).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0137,3.record_0 (735).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0138,3.record_0 (1489).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0139,2. record_0 (968).txt,Consejo de Estado,INSTITUTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0140,3.record_0 (311).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0141,3.record_0 (275).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0142,1.record_0 (9).txt,Otras Entidades,FALLBACK,2013.0,ACADEMIC_ARTICLE,HIGH,True,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0143,3.record_0 (312).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0144,3.record_0 (1008).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0145,2. record_0 (543).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0146,3.record_0 (936).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0147,3.record_0 (795).txt,Corte Constitucional,TEXT_MENTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0148,2. record_0 (509).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0149,1.record_0 (472).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2008.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0150,3.record_0 (1071).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0151,2. record_0 (322).txt,Consejo de Estado,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0152,1.record_0 (343).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0153,3.record_0 (449).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0154,1.record_0 (80).txt,Otras Entidades,FALLBACK,2014.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0155,1.record_0 (18).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0156,3.record_0 (851).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0157,3.record_0 (475).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0158,1.record_0 (382).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0159,1.record_0 (337).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0160,2. record_0 (698).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0161,6.record_0 (191).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0162,3.record_0 (354).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0163,2. record_0 (54).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0164,2. record_0 (233).txt,Corte Constitucional,TEXT_MENTION_HEADER,1994.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0165,3.record_0 (926).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0166,3.record_0 (1072).txt,Consejo de Estado,INSTITUTION_HEADER,2004.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0167,3.record_0 (1876).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0168,3.record_0 (1232).txt,Consejo de Estado,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0169,6.record_0 (265).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0170,1.record_0 (313).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0171,3.record_0 (1625).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0172,3.record_0 (28).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0173,2. record_0 (440).txt,Otras Entidades,FALLBACK,2019.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0174,3.record_0 (1361).txt,Consejo de Estado,INSTITUTION_HEADER,2005.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0175,2. record_0 (666).txt,Consejo de Estado,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0176,1.record_0 (509).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0177,2. record_0 (182).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0178,2. record_0 (295).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0179,2. record_0 (202).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0180,3.record_0 (160).txt,Otras Entidades,FALLBACK,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0181,2. record_0 (125).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0182,3.record_0 (190).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0183,1.record_0 (48).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0184,3.record_0 (1840).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0185,1.record_0 (533).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0186,2. record_0 (426).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0187,2. record_0 (967).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0188,1.record_0 (383).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0189,4. (77).txt,Corte Constitucional,TEXT_MENTION_HEADER,2002.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0190,2. record_0 (178).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0191,3.record_0 (752).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0192,2. record_0 (443).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0193,2. record_0 (576).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0194,1.record_0 (202).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0195,2. record_0 (406).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0196,2. record_0 (1217).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2010.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0197,3.record_0 (152).txt,Otras Entidades,FALLBACK,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0198,3.record_0 (473).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0199,3.record_0 (550).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0200,3.record_0 (1404).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0201,3.record_0 (1340).txt,Otras Entidades,FALLBACK,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0202,3.record_0 (125).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0203,3.record_0 (703).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0204,2. record_0 (318).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0205,2. record_0 (216).txt,Otras Entidades,INSTITUTION_HEADER,1969.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0206,3.record_0 (780).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0207,3.record_0 (539).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0208,3.record_0 (356).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0209,3.record_0 (322).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0210,3.record_0 (466).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0211,3.record_0 (1026).txt,Otras Entidades,FALLBACK,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0212,1.record_0 (255).txt,Otras Entidades,FALLBACK,2019.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0213,2. record_0 (31).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0214,3.record_0 (1039).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0215,1.record_0 (386).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2004.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0216,3.record_0 (374).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0217,3.record_0 (1116).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0218,2. record_0 (292).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0219,2. record_0 (1337).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0220,2. record_0 (25).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0221,3.record_0 (73).txt,Otras Entidades,FALLBACK,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0222,1.record_0 (38).txt,Otras Entidades,FALLBACK,2013.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0223,3.record_0 (124).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0224,1.record_0 (469).txt,Otras Entidades,FALLBACK,2010.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0225,3.record_0 (1890).txt,Otras Entidades,INSTITUTION_HEADER,2003.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0226,3.record_0 (42).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0227,6.record_0 (24).txt,Consejo de Estado,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0228,3.record_0 (27).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0229,6.record_0 (17).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0230,3.record_0 (309).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0231,3.record_0 (81).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0232,2. record_0 (831).txt,Corte Constitucional,TEXT_MENTION_HEADER,2002.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0233,3.record_0 (10).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0234,1.record_0 (74).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0235,3.record_0 (754).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0236,1.record_0 (497).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0237,3.record_0 (1019).txt,Corte Constitucional,TEXT_MENTION_HEADER,2010.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0238,2. record_0 (1).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0239,3.record_0 (766).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0240,3.record_0 (480).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0241,3.record_0 (389).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0242,2. record_0 (234).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0243,2. record_0 (893).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0244,3.record_0 (1617).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0245,2. record_0 (4).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0246,3.record_0 (892).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0247,3.record_0 (517).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0248,3.record_0 (213).txt,Otras Entidades,FALLBACK,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0249,2. record_0 (901).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0250,3.record_0 (478).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0251,2. record_0 (18).txt,Corte Constitucional,TEXT_MENTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0252,3.record_0 (782).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0253,1.record_0 (342).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0254,3.record_0 (1978).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0255,1.record_0 (285).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0256,3.record_0 (68).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0257,1.record_0 (471).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0258,2. record_0 (367).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0259,1.record_0 (306).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0260,3.record_0 (231).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0261,3.record_0 (1035).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0262,3.record_0 (1948).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0263,1.record_0 (20).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0264,1.record_0 (98).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0265,3.record_0 (788).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0266,3.record_0 (192).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0267,3.record_0 (575).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0268,3.record_0 (1537).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0269,3.record_0 (198).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0270,3.record_0 (1657).txt,Corte Constitucional,TEXT_MENTION_HEADER,2000.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0271,2. record_0 (24).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0272,3.record_0 (796).txt,Otras Entidades,INSTITUTION_HEADER,,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0273,1.record_0 (32).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0274,3.record_0 (189).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0275,3.record_0 (315).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0276,3.record_0 (336).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0277,2. record_0 (549).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0278,6.record_0 (25).txt,Otras Entidades,FALLBACK,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0279,2. record_0 (291).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0280,2. record_0 (904).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0281,3.record_0 (582).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0282,3.record_0 (406).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0283,4. (16).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0284,5. (2).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0285,2. record_0 (133).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0286,2. record_0 (289).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0287,3.record_0 (816).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0288,3.record_0 (529).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0289,1.record_0 (113).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0290,3.record_0 (43).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0291,3.record_0 (1159).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0292,2. record_0 (145).txt,Otras Entidades,FALLBACK,,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0293,3.record_0 (1105).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0294,1.record_0 (239).txt,Otras Entidades,FALLBACK,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0295,3.record_0 (915).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0296,2. record_0 (81).txt,Otras Entidades,INSTITUTION_HEADER,2009.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0297,1.record_0 (508).txt,Otras Entidades,FALLBACK,1996.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0298,3.record_0 (474).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0299,2. record_0 (526).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0300,1.record_0 (39).txt,Corte Constitucional,TEXT_MENTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0301,3.record_0 (1413).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0302,1.record_0 (545).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0303,3.record_0 (161).txt,Otras Entidades,INSTITUTION_HEADER,,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0304,3.record_0 (394).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0305,3.record_0 (34).txt,Otras Entidades,FALLBACK,,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0306,1.record_0 (54).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0307,3.record_0 (973).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0308,3.record_0 (274).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0309,3.record_0 (714).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0310,3.record_0 (694).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0311,3.record_0 (771).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0312,1.record_0 (53).txt,Otras Entidades,FALLBACK,2005.0,ACADEMIC_ARTICLE,HIGH,True,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0313,3.record_0 (384).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0314,3.record_0 (1136).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0315,1.record_0 (139).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0316,3.record_0 (815).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0317,3.record_0 (785).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0318,2. record_0 (1037).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0319,3.record_0 (401).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0320,6.record_0 (249).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0321,2. record_0 (1001).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0322,1.record_0 (49).txt,Otras Entidades,FALLBACK,2008.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0323,3.record_0 (1865).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0324,2. record_0 (197).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0325,3.record_0 (158).txt,Consejo de Estado,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0326,2. record_0 (368).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0327,3.record_0 (102).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0328,3.record_0 (398).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0329,1.record_0 (62).txt,Consejo de Estado,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0330,1.record_0 (100).txt,Corte Constitucional,TEXT_MENTION_HEADER,,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0331,3.record_0 (492).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0332,2. record_0 (535).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0333,2. record_0 (419).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0334,1.record_0 (377).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0335,3.record_0 (625).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0336,3.record_0 (1459).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0337,2. record_0 (305).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0338,3.record_0 (76).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0339,1.record_0 (115).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0340,3.record_0 (595).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0341,3.record_0 (586).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0342,2. record_0 (1036).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0343,1.record_0 (40).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0344,3.record_0 (555).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0345,3.record_0 (208).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0346,3.record_0 (921).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0347,3.record_0 (182).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0348,1.record_0 (28).txt,Otras Entidades,FALLBACK,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0349,3.record_0 (1085).txt,Otras Entidades,FALLBACK,2014.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0350,3.record_0 (1154).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0351,2. record_0 (58).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0352,2. record_0 (384).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0353,2. record_0 (575).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0354,1.record_0 (458).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0355,3.record_0 (865).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0356,3.record_0 (1014).txt,Consejo de Estado,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0357,3.record_0 (35).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0358,3.record_0 (1335).txt,Consejo de Estado,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0359,1.record_0 (75).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0360,2. record_0 (1132).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0361,3.record_0 (832).txt,Otras Entidades,FALLBACK,2019.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0362,1.record_0 (145).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0363,3.record_0 (1946).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0364,2. record_0 (517).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0365,3.record_0 (338).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0366,3.record_0 (998).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0367,2. record_0 (1034).txt,Corte Constitucional,TEXT_MENTION_HEADER,2002.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0368,2. record_0 (455).txt,Otras Entidades,FALLBACK,2011.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0369,2. record_0 (1257).txt,Corte Constitucional,TEXT_MENTION_HEADER,2002.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0370,3.record_0 (75).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0371,1.record_0 (455).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0372,3.record_0 (99).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0373,3.record_0 (438).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0374,2. record_0 (52).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0375,1.record_0 (268).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0376,3.record_0 (1137).txt,Otras Entidades,FALLBACK,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0377,3.record_0 (392).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0378,3.record_0 (1065).txt,Otras Entidades,FALLBACK,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0379,3.record_0 (548).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0380,3.record_0 (980).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0381,2. record_0 (1291).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0382,1.record_0 (8).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0383,2. record_0 (1216).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0384,3.record_0 (484).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0385,3.record_0 (366).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0386,3.record_0 (1160).txt,Otras Entidades,FALLBACK,2014.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0387,2. record_0 (332).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0388,2. record_0 (723).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0389,3.record_0 (112).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0390,1.record_0 (136).txt,Corte Constitucional,TEXT_MENTION_HEADER,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0391,1.record_0 (1).txt,Otras Entidades,INSTITUTION_HEADER,1995.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0392,3.record_0 (626).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0393,3.record_0 (1279).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0394,3.record_0 (331).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0395,2. record_0 (772).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0396,3.record_0 (276).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0397,2. record_0 (212).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0398,3.record_0 (1219).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0399,3.record_0 (245).txt,Otras Entidades,INSTITUTION_HEADER,1999.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0400,3.record_0 (395).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0401,2. record_0 (647).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0402,1.record_0 (314).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0403,2. record_0 (722).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0404,3.record_0 (277).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0405,1.record_0 (121).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0406,3.record_0 (683).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0407,3.record_0 (298).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0408,2. record_0 (349).txt,Otras Entidades,FALLBACK,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0409,2. record_0 (899).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0410,2. record_0 (238).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0411,3.record_0 (583).txt,Otras Entidades,FALLBACK,2017.0,ACADEMIC_ARTICLE,HIGH,True,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0412,3.record_0 (52).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0413,1.record_0 (196).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0414,1.record_0 (341).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0415,2. record_0 (375).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0416,3.record_0 (837).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0417,2. record_0 (637).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0418,3.record_0 (1299).txt,Otras Entidades,FALLBACK,2017.0,UNCERTAIN,LOW,False,False,False,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_0419,3.record_0 (1665).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0420,1.record_0 (385).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0421,2. record_0 (700).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0422,1.record_0 (456).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0423,3.record_0 (1056).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0424,3.record_0 (334).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0425,2. record_0 (548).txt,Otras Entidades,FALLBACK,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0426,1.record_0 (187).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0427,3.record_0 (228).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0428,1.record_0 (230).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0429,2. record_0 (95).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0430,2. record_0 (609).txt,Otras Entidades,FALLBACK,,UNCERTAIN,LOW,False,False,True,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_0431,1.record_0 (257).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0432,2. record_0 (531).txt,Corte Constitucional,TEXT_MENTION_HEADER,2010.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0433,2. record_0 (807).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0434,2. record_0 (441).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0435,1.record_0 (532).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0436,2. record_0 (1129).txt,Otras Entidades,INSTITUTION_HEADER,1994.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0437,2. record_0 (362).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0438,2. record_0 (363).txt,Otras Entidades,FALLBACK,1966.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0439,2. record_0 (588).txt,Otras Entidades,FALLBACK,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0440,2. record_0 (385).txt,Consejo de Estado,INSTITUTION_HEADER,2002.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0441,3.record_0 (422).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0442,3.record_0 (232).txt,Otras Entidades,FALLBACK,1993.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0443,3.record_0 (1794).txt,Otras Entidades,INSTITUTION_HEADER,2006.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0444,3.record_0 (852).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0445,1.record_0 (321).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0446,3.record_0 (14).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0447,2. record_0 (118).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0448,3.record_0 (456).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0449,2. record_0 (381).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0450,2. record_0 (690).txt,Otras Entidades,FALLBACK,2001.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0451,3.record_0 (325).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0452,3.record_0 (903).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0453,1.record_0 (264).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0454,3.record_0 (210).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0455,3.record_0 (1265).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0456,3.record_0 (571).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0457,1.record_0 (146).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0458,3.record_0 (1800).txt,Otras Entidades,INSTITUTION_HEADER,1997.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0459,2. record_0 (163).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0460,3.record_0 (1540).txt,Consejo de Estado,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0461,3.record_0 (278).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0462,3.record_0 (113).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0463,3.record_0 (629).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0464,2. record_0 (801).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0465,6.record_0 (133).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0466,3.record_0 (623).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0467,3.record_0 (531).txt,Otras Entidades,FALLBACK,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0468,3.record_0 (199).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0469,3.record_0 (472).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0470,3.record_0 (719).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0471,3.record_0 (403).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0472,3.record_0 (142).txt,Otras Entidades,INSTITUTION_HEADER,2009.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0473,3.record_0 (347).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0474,1.record_0 (70).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0475,3.record_0 (637).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0476,2. record_0 (353).txt,Otras Entidades,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0477,2. record_0 (758).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0478,3.record_0 (439).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0479,3.record_0 (188).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0480,3.record_0 (299).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0481,2. record_0 (778).txt,Otras Entidades,FALLBACK,,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0482,3.record_0 (341).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0483,2. record_0 (832).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2010.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0484,3.record_0 (237).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0485,2. record_0 (312).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0486,3.record_0 (1548).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0487,2. record_0 (22).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0488,1.record_0 (12).txt,Consejo de Estado,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0489,3.record_0 (593).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0490,2. record_0 (365).txt,Otras Entidades,INSTITUTION_HEADER,1979.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0491,1.record_0 (133).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0492,2. record_0 (1289).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0493,3.record_0 (1456).txt,Consejo de Estado,INSTITUTION_HEADER,,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0494,2. record_0 (183).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0495,3.record_0 (887).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0496,3.record_0 (97).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0497,3.record_0 (1663).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2003.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0498,3.record_0 (601).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0499,2. record_0 (462).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0500,1.record_0 (50).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0501,2. record_0 (189).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0502,3.record_0 (1037).txt,Otras Entidades,INSTITUTION_HEADER,2008.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0503,2. record_0 (230).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0504,3.record_0 (380).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0505,1.record_0 (13).txt,Otras Entidades,FALLBACK,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0506,2. record_0 (2).txt,Otras Entidades,FALLBACK,1994.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0507,2. record_0 (874).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0508,3.record_0 (1004).txt,Otras Entidades,FALLBACK,2012.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0509,2. record_0 (115).txt,Otras Entidades,FALLBACK,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0510,1.record_0 (124).txt,Otras Entidades,FALLBACK,2014.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0511,2. record_0 (323).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0512,3.record_0 (533).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0513,1.record_0 (177).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0514,2. record_0 (1039).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0515,2. record_0 (952).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0516,1.record_0 (21).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0517,3.record_0 (1462).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0518,3.record_0 (904).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0519,3.record_0 (553).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0520,3.record_0 (246).txt,Otras Entidades,INSTITUTION_HEADER,,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0521,1.record_0 (260).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0522,2. record_0 (467).txt,Otras Entidades,FALLBACK,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0523,3.record_0 (317).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0524,2. record_0 (516).txt,Consejo de Estado,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0525,2. record_0 (343).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0526,3.record_0 (238).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0527,1.record_0 (336).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0528,3.record_0 (512).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0529,3.record_0 (352).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0530,2. record_0 (1356).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0531,2. record_0 (331).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0532,2. record_0 (26).txt,Corte Constitucional,TEXT_MENTION_HEADER,2008.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0533,1.record_0 (116).txt,Corte Constitucional,TEXT_MENTION_HEADER,2015.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0534,2. record_0 (68).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0535,5. (6).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0536,3.record_0 (1098).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0537,3.record_0 (400).txt,Otras Entidades,FALLBACK,1981.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0538,1.record_0 (3).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0539,2. record_0 (328).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0540,3.record_0 (1543).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0541,3.record_0 (69).txt,Otras Entidades,FALLBACK,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0542,3.record_0 (437).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0543,3.record_0 (1221).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0544,1.record_0 (158).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0545,2. record_0 (223).txt,Consejo de Estado,INSTITUTION_HEADER,2002.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0546,3.record_0 (784).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0547,2. record_0 (1105).txt,Consejo de Estado,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0548,3.record_0 (1100).txt,Otras Entidades,FALLBACK,2012.0,UNCERTAIN,LOW,False,False,False,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_0549,3.record_0 (964).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0550,1.record_0 (55).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0551,3.record_0 (101).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0552,3.record_0 (1).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0553,3.record_0 (1122).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0554,2. record_0 (1022).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0555,3.record_0 (434).txt,Otras Entidades,FALLBACK,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0556,2. record_0 (166).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0557,3.record_0 (1176).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0558,1.record_0 (160).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0559,1.record_0 (494).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0560,3.record_0 (164).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0561,2. record_0 (109).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0562,1.record_0 (492).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0563,3.record_0 (1737).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0564,3.record_0 (470).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0565,3.record_0 (482).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0566,2. record_0 (542).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0567,3.record_0 (1378).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0568,3.record_0 (390).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0569,3.record_0 (951).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0570,2. record_0 (861).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0571,3.record_0 (1980).txt,Otras Entidades,FALLBACK,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0572,3.record_0 (209).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0573,2. record_0 (713).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0574,3.record_0 (107).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0575,2. record_0 (921).txt,Otras Entidades,FALLBACK,2003.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0576,1.record_0 (167).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0577,2. record_0 (565).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0578,1.record_0 (17).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0579,3.record_0 (681).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0580,3.record_0 (1099).txt,Otras Entidades,FALLBACK,2016.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0581,3.record_0 (1500).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0582,3.record_0 (31).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0583,3.record_0 (358).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0584,3.record_0 (1213).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0585,2. record_0 (761).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0586,1.record_0 (210).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0587,3.record_0 (642).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0588,3.record_0 (1466).txt,Otras Entidades,FALLBACK,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0589,3.record_0 (862).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0590,3.record_0 (78).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0591,1.record_0 (4).txt,Consejo de Estado,INSTITUTION_HEADER,2006.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0592,3.record_0 (1618).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0593,3.record_0 (230).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0594,2. record_0 (114).txt,Otras Entidades,INSTITUTION_HEADER,2001.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0595,2. record_0 (563).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0596,2. record_0 (1040).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0597,2. record_0 (236).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0598,3.record_0 (342).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0599,1.record_0 (232).txt,Otras Entidades,INSTITUTION_HEADER,,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0600,1.record_0 (276).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0601,3.record_0 (291).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0602,3.record_0 (253).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0603,2. record_0 (1256).txt,Otras Entidades,FALLBACK,2002.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0604,3.record_0 (576).txt,Otras Entidades,INSTITUTION_HEADER,2010.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0605,2. record_0 (697).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0606,3.record_0 (938).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0607,2. record_0 (249).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0608,2. record_0 (1204).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0609,1.record_0 (29).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0610,3.record_0 (658).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0611,3.record_0 (818).txt,Otras Entidades,FALLBACK,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0612,3.record_0 (1763).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0613,3.record_0 (1831).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0614,1.record_0 (35).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0615,1.record_0 (253).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0616,2. record_0 (642).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0617,3.record_0 (801).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0618,1.record_0 (181).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0619,2. record_0 (714).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0620,1.record_0 (247).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0621,3.record_0 (111).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0622,2. record_0 (64).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0623,4. (92).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0624,3.record_0 (596).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0625,2. record_0 (795).txt,Otras Entidades,FALLBACK,2003.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0626,2. record_0 (1296).txt,Corte Constitucional,TEXT_MENTION_HEADER,2004.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0627,2. record_0 (344).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0628,3.record_0 (709).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0629,3.record_0 (215).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0630,3.record_0 (1875).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0631,3.record_0 (268).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0632,6.record_0 (145).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0633,3.record_0 (1252).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0634,3.record_0 (379).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0635,1.record_0 (82).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0636,3.record_0 (471).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0637,3.record_0 (1848).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0638,3.record_0 (1916).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0639,3.record_0 (487).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0640,2. record_0 (38).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0641,3.record_0 (1185).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2009.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0642,1.record_0 (206).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0643,3.record_0 (1295).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0644,1.record_0 (46).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0645,3.record_0 (1245).txt,Otras Entidades,FALLBACK,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0646,1.record_0 (16).txt,Corte Constitucional,TEXT_MENTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0647,3.record_0 (692).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0648,3.record_0 (1024).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0649,1.record_0 (76).txt,Otras Entidades,FALLBACK,2019.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0650,2. record_0 (336).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0651,2. record_0 (825).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0652,3.record_0 (212).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0653,3.record_0 (1854).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0654,3.record_0 (794).txt,Otras Entidades,FALLBACK,2013.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0655,3.record_0 (146).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0656,3.record_0 (777).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0657,3.record_0 (727).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0658,2. record_0 (130).txt,Otras Entidades,INSTITUTION_HEADER,2009.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0659,2. record_0 (1384).txt,Otras Entidades,INSTITUTION_HEADER,2000.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0660,1.record_0 (381).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0661,2. record_0 (340).txt,Otras Entidades,FALLBACK,2007.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0662,1.record_0 (172).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0663,2. record_0 (706).txt,Consejo de Estado,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0664,2. record_0 (835).txt,Consejo de Estado,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0665,3.record_0 (1132).txt,Otras Entidades,FALLBACK,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0666,2. record_0 (1111).txt,Corte Constitucional,TEXT_MENTION_HEADER,1944.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0667,3.record_0 (329).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0668,1.record_0 (340).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0669,1.record_0 (465).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0670,3.record_0 (397).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0671,2. record_0 (23).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0672,1.record_0 (365).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0673,3.record_0 (655).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0674,1.record_0 (241).txt,Consejo de Estado,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0675,2. record_0 (83).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0676,2. record_0 (10).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0677,3.record_0 (1255).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0678,1.record_0 (399).txt,Otras Entidades,FALLBACK,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0679,1.record_0 (117).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0680,3.record_0 (1267).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0681,2. record_0 (379).txt,Otras Entidades,FALLBACK,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0682,1.record_0 (496).txt,Otras Entidades,FALLBACK,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0683,2. record_0 (515).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2011.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0684,1.record_0 (5).txt,Otras Entidades,FALLBACK,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0685,2. record_0 (452).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0686,3.record_0 (699).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0687,3.record_0 (29).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0688,3.record_0 (592).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0689,3.record_0 (17).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0690,3.record_0 (721).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0691,2. record_0 (1193).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0692,3.record_0 (490).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0693,2. record_0 (1103).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0694,1.record_0 (530).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0695,1.record_0 (531).txt,Consejo de Estado,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0696,1.record_0 (27).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0697,1.record_0 (423).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0698,3.record_0 (141).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0699,3.record_0 (552).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0700,3.record_0 (469).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0701,1.record_0 (41).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0702,1.record_0 (339).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0703,3.record_0 (521).txt,Consejo de Estado,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0704,3.record_0 (634).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0705,1.record_0 (57).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0706,1.record_0 (60).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0707,1.record_0 (126).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0708,3.record_0 (870).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0709,3.record_0 (1282).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0710,3.record_0 (1552).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0711,2. record_0 (724).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0712,2. record_0 (146).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0713,2. record_0 (427).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0714,3.record_0 (869).txt,Otras Entidades,FALLBACK,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0715,1.record_0 (30).txt,Otras Entidades,FALLBACK,2000.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0716,3.record_0 (691).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0717,3.record_0 (1251).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0718,3.record_0 (235).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0719,3.record_0 (918).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0720,1.record_0 (47).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0721,1.record_0 (284).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2011.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0722,3.record_0 (739).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0723,1.record_0 (176).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0724,2. record_0 (272).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0725,4. (61).txt,Corte Constitucional,TEXT_MENTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0726,2. record_0 (884).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0727,2. record_0 (1030).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0728,2. record_0 (625).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0729,3.record_0 (1541).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0730,3.record_0 (541).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0731,2. record_0 (144).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0732,3.record_0 (157).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0733,3.record_0 (962).txt,Otras Entidades,FALLBACK,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0734,4. (100).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0735,3.record_0 (409).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0736,2. record_0 (484).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0737,3.record_0 (206).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0738,1.record_0 (15).txt,Otras Entidades,INSTITUTION_HEADER,1979.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0739,3.record_0 (537).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0740,1.record_0 (87).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0741,3.record_0 (1612).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0742,2. record_0 (703).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0743,1.record_0 (6).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0744,3.record_0 (1151).txt,Otras Entidades,FALLBACK,2019.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0745,3.record_0 (80).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0746,1.record_0 (344).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0747,1.record_0 (280).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0748,2. record_0 (316).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0749,1.record_0 (323).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0750,3.record_0 (1457).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0751,1.record_0 (467).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2004.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0752,3.record_0 (1712).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0753,2. record_0 (859).txt,Otras Entidades,INSTITUTION_HEADER,2005.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0754,3.record_0 (1333).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0755,3.record_0 (77).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0756,1.record_0 (242).txt,Otras Entidades,INSTITUTION_HEADER,2011.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0757,3.record_0 (959).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0758,3.record_0 (627).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0759,2. record_0 (239).txt,Otras Entidades,FALLBACK,2009.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0760,3.record_0 (144).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0761,1.record_0 (14).txt,Corte Constitucional,TEXT_MENTION_HEADER,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0762,2. record_0 (207).txt,Otras Entidades,FALLBACK,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0763,2. record_0 (1339).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0764,3.record_0 (264).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0765,3.record_0 (939).txt,Consejo de Estado,INSTITUTION_HEADER,2008.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0766,1.record_0 (309).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0767,3.record_0 (483).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0768,3.record_0 (545).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0769,3.record_0 (570).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0770,4. (46).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2013.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0771,3.record_0 (1082).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0772,1.record_0 (107).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0773,1.record_0 (86).txt,Otras Entidades,FALLBACK,2008.0,LAW_OR_DECREE_TEXT,HIGH,True,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0774,2. record_0 (303).txt,Otras Entidades,FALLBACK,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0775,2. record_0 (725).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0776,3.record_0 (1542).txt,Otras Entidades,FALLBACK,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0777,3.record_0 (323).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0778,2. record_0 (670).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0779,1.record_0 (68).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0780,3.record_0 (1375).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0781,2. record_0 (738).txt,Otras Entidades,INSTITUTION_HEADER,2006.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0782,3.record_0 (609).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0783,2. record_0 (585).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0784,3.record_0 (682).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0785,2. record_0 (439).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0786,3.record_0 (243).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0787,3.record_0 (195).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0788,2. record_0 (673).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0789,3.record_0 (738).txt,Otras Entidades,FALLBACK,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0790,3.record_0 (1708).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0791,3.record_0 (324).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0792,3.record_0 (966).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0793,2. record_0 (1097).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0794,3.record_0 (1036).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0795,3.record_0 (377).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0796,3.record_0 (30).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0797,3.record_0 (1354).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0798,3.record_0 (1660).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0799,2. record_0 (395).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0800,3.record_0 (240).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0801,3.record_0 (946).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0802,1.record_0 (119).txt,Corte Constitucional,TEXT_MENTION_HEADER,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0803,1.record_0 (559).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0804,1.record_0 (2).txt,Otras Entidades,FALLBACK,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0805,3.record_0 (310).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0806,3.record_0 (100).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0807,2. record_0 (177).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0808,3.record_0 (382).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0809,1.record_0 (161).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0810,3.record_0 (333).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0811,3.record_0 (806).txt,Otras Entidades,FALLBACK,2012.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0812,3.record_0 (156).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0813,1.record_0 (69).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0814,2. record_0 (998).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0815,3.record_0 (994).txt,Otras Entidades,FALLBACK,2018.0,ACADEMIC_ARTICLE,HIGH,True,True,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0816,3.record_0 (458).txt,Otras Entidades,FALLBACK,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0817,3.record_0 (271).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0818,3.record_0 (664).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0819,1.record_0 (380).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0820,2. record_0 (179).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0821,3.record_0 (996).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0822,2. record_0 (264).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0823,1.record_0 (184).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0824,3.record_0 (227).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0825,2. record_0 (131).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0826,3.record_0 (686).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0827,3.record_0 (297).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0828,3.record_0 (419).txt,Otras Entidades,FALLBACK,2010.0,UNCERTAIN,LOW,False,False,False,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_0829,3.record_0 (1156).txt,Otras Entidades,FALLBACK,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0830,1.record_0 (246).txt,Otras Entidades,INSTITUTION_HEADER,,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0831,3.record_0 (330).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0832,2. record_0 (51).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0833,2. record_0 (987).txt,Otras Entidades,FALLBACK,2007.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0834,3.record_0 (1172).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0835,3.record_0 (155).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0836,3.record_0 (393).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0837,3.record_0 (532).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0838,3.record_0 (1564).txt,Otras Entidades,INSTITUTION_HEADER,2005.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0839,3.record_0 (462).txt,Otras Entidades,FALLBACK,2006.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0840,2. record_0 (1162).txt,Otras Entidades,FALLBACK,2002.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0841,2. record_0 (222).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0842,3.record_0 (1866).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0843,2. record_0 (337).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0844,1.record_0 (144).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0845,3.record_0 (159).txt,Otras Entidades,FALLBACK,2011.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0846,6.record_0 (12).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0847,1.record_0 (43).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0848,1.record_0 (23).txt,Otras Entidades,FALLBACK,2006.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0849,1.record_0 (174).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0850,3.record_0 (407).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0851,3.record_0 (602).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0852,2. record_0 (474).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0853,5. (32).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0854,3.record_0 (248).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0855,3.record_0 (1977).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0856,3.record_0 (62).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0857,3.record_0 (391).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0858,3.record_0 (234).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0859,3.record_0 (70).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0860,1.record_0 (286).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2008.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0861,3.record_0 (455).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0862,2. record_0 (490).txt,Otras Entidades,FALLBACK,2001.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0863,3.record_0 (534).txt,Otras Entidades,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0864,2. record_0 (636).txt,Otras Entidades,FALLBACK,2012.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0865,6.record_0 (10).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0866,5. (3).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0867,1.record_0 (468).txt,Otras Entidades,FALLBACK,2010.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0868,1.record_0 (95).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0869,2. record_0 (501).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0870,3.record_0 (967).txt,Otras Entidades,INSTITUTION_HEADER,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0871,2. record_0 (1304).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0872,2. record_0 (1298).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0873,3.record_0 (432).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0874,3.record_0 (1538).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0875,1.record_0 (283).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0876,2. record_0 (111).txt,Corte Constitucional,TEXT_MENTION_HEADER,2006.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0877,3.record_0 (1550).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0878,6.record_0 (111).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0879,2. record_0 (147).txt,Otras Entidades,INSTITUTION_HEADER,2024.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0880,3.record_0 (954).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_0881,3.record_0 (1979).txt,Otras Entidades,FALLBACK,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0882,2. record_0 (17).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0883,1.record_0 (195).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0884,2. record_0 (325).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0885,1.record_0 (85).txt,Otras Entidades,FALLBACK,2012.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0886,3.record_0 (1703).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0887,3.record_0 (547).txt,Otras Entidades,FALLBACK,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0888,3.record_0 (656).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0889,3.record_0 (1202).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0890,2. record_0 (232).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0891,2. record_0 (833).txt,Consejo de Estado,INSTITUTION_HEADER,2010.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0892,2. record_0 (382).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0893,3.record_0 (1762).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0894,3.record_0 (1348).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0895,3.record_0 (1173).txt,Otras Entidades,FALLBACK,2022.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0896,3.record_0 (701).txt,Otras Entidades,FALLBACK,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0897,1.record_0 (77).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0898,3.record_0 (600).txt,Corte Constitucional,TEXT_MENTION_HEADER,2024.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0899,3.record_0 (1181).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0900,3.record_0 (1199).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0901,2. record_0 (293).txt,Otras Entidades,INSTITUTION_HEADER,,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0902,2. record_0 (1192).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0903,2. record_0 (188).txt,Otras Entidades,INSTITUTION_HEADER,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0904,2. record_0 (203).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0905,3.record_0 (679).txt,Consejo de Estado,INSTITUTION_HEADER,2014.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0906,3.record_0 (911).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0907,3.record_0 (685).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0908,3.record_0 (286).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0909,3.record_0 (1206).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0910,2. record_0 (469).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0911,1.record_0 (99).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,LAW_OR_DECREE_TEXT,HIGH,True,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0912,3.record_0 (457).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0913,1.record_0 (148).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0914,2. record_0 (902).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0915,3.record_0 (313).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0916,2. record_0 (1098).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0917,1.record_0 (154).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2014.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0918,3.record_0 (589).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0919,1.record_0 (114).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0920,2. record_0 (304).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0921,2. record_0 (67).txt,Otras Entidades,FALLBACK,2016.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0922,2. record_0 (463).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0923,2. record_0 (938).txt,Otras Entidades,FALLBACK,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0924,1.record_0 (120).txt,Otras Entidades,FALLBACK,2007.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0925,3.record_0 (854).txt,Otras Entidades,INSTITUTION_HEADER,2005.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0926,3.record_0 (194).txt,Otras Entidades,FALLBACK,1979.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0927,3.record_0 (249).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0928,2. record_0 (790).txt,Otras Entidades,FALLBACK,2005.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0929,3.record_0 (399).txt,Consejo de Estado,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0930,3.record_0 (1752).txt,Corte Constitucional,TEXT_MENTION_HEADER,2007.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0931,2. record_0 (958).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0932,3.record_0 (1203).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0933,3.record_0 (1117).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0934,3.record_0 (1015).txt,Corte Constitucional,TEXT_MENTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0935,3.record_0 (130).txt,Corte Constitucional,TEXT_MENTION_HEADER,2019.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0936,3.record_0 (1410).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0937,3.record_0 (628).txt,Otras Entidades,FALLBACK,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0938,3.record_0 (1574).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2017.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0939,2. record_0 (743).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0940,1.record_0 (84).txt,Otras Entidades,FALLBACK,2018.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0941,3.record_0 (376).txt,Corte Constitucional,TEXT_MENTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0942,3.record_0 (814).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0943,3.record_0 (476).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0944,3.record_0 (614).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0945,2. record_0 (546).txt,Otras Entidades,INSTITUTION_HEADER,2010.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0946,2. record_0 (154).txt,Otras Entidades,FALLBACK,2019.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0947,3.record_0 (641).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0948,1.record_0 (66).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0949,3.record_0 (461).txt,Consejo de Estado,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0950,3.record_0 (874).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0951,1.record_0 (422).txt,Otras Entidades,FALLBACK,2014.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0952,3.record_0 (1007).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0953,2. record_0 (383).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0954,1.record_0 (188).txt,Otras Entidades,FALLBACK,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0955,2. record_0 (143).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0956,2. record_0 (121).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0957,2. record_0 (401).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0958,2. record_0 (269).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0959,3.record_0 (289).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0960,3.record_0 (786).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0961,3.record_0 (1565).txt,Corte Constitucional,TEXT_MENTION_HEADER,2005.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0962,3.record_0 (1153).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0963,2. record_0 (648).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0964,3.record_0 (961).txt,Otras Entidades,FALLBACK,1984.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0965,3.record_0 (405).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0966,1.record_0 (470).txt,Otras Entidades,FALLBACK,2015.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0967,2. record_0 (345).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0968,3.record_0 (725).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2018.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0969,2. record_0 (53).txt,Otras Entidades,FALLBACK,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0970,2. record_0 (721).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0971,1.record_0 (88).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0972,2. record_0 (1122).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0973,2. record_0 (442).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0974,3.record_0 (988).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0975,2. record_0 (471).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0976,3.record_0 (680).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0977,1.record_0 (404).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0978,3.record_0 (411).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0979,3.record_0 (1220).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2019.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0980,3.record_0 (632).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0981,2. record_0 (141).txt,Otras Entidades,FALLBACK,2010.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_0982,2. record_0 (85).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0983,2. record_0 (432).txt,Otras Entidades,INSTITUTION_HEADER,2004.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0984,3.record_0 (254).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0985,1.record_0 (109).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_0986,3.record_0 (1544).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0987,1.record_0 (229).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0988,2. record_0 (550).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0989,3.record_0 (1396).txt,Corte Constitucional,TEXT_MENTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0990,2. record_0 (1266).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2020.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0991,3.record_0 (225).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0992,4. (8).txt,Corte Constitucional,TEXT_MENTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0993,1.record_0 (315).txt,Consejo de Estado,INSTITUTION_HEADER,2003.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0994,2. record_0 (136).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0995,2. record_0 (153).txt,Otras Entidades,INSTITUTION_HEADER,2019.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0996,2. record_0 (237).txt,Otras Entidades,INSTITUTION_HEADER,2015.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0997,3.record_0 (726).txt,Otras Entidades,INSTITUTION_HEADER,2017.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_0998,3.record_0 (114).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_0999,2. record_0 (187).txt,Otras Entidades,FALLBACK,2014.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_1000,1.record_0 (211).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2015.0,JUDICIAL,HIGH,False,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1001,3.record_0 (1397).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1002,3.record_0 (292).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1003,1.record_0 (205).txt,Otras Entidades,FALLBACK,2017.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1004,3.record_0 (183).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1005,2. record_0 (762).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2021.0,JUDICIAL,HIGH,True,True,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1006,2. record_0 (1366).txt,Otras Entidades,INSTITUTION_HEADER,2000.0,LAW_OR_DECREE_TEXT,HIGH,False,True,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1007,1.record_0 (79).txt,Otras Entidades,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1008,3.record_0 (140).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1009,3.record_0 (82).txt,Otras Entidades,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,True,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1010,2. record_0 (341).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1011,2. record_0 (201).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1012,5. (9).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,LAW_OR_DECREE_TEXT,HIGH,False,False,False,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1013,3.record_0 (530).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1014,3.record_0 (1306).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2016.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1015,2. record_0 (319).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1016,3.record_0 (272).txt,Otras Entidades,FALLBACK,2020.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1017,2. record_0 (128).txt,Otras Entidades,INSTITUTION_HEADER,2016.0,JUDICIAL,HIGH,False,True,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1018,1.record_0 (102).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1019,2. record_0 (420).txt,Otras Entidades,FALLBACK,2021.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_1020,4. (14).txt,Otras Entidades,FALLBACK,2021.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1021,3.record_0 (71).txt,Otras Entidades,INSTITUTION_HEADER,2018.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1022,3.record_0 (122).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1023,3.record_0 (1300).txt,Otras Entidades,FALLBACK,2015.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1024,1.record_0 (52).txt,Otras Entidades,INSTITUTION_HEADER,2013.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_1025,2. record_0 (434).txt,Corte Constitucional,TEXT_MENTION_HEADER,2001.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1026,3.record_0 (453).txt,Corte Constitucional,OFFICIAL_HEADER_NUMBER,2022.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1027,2. record_0 (834).txt,Consejo de Estado,INSTITUTION_HEADER,2008.0,JUDICIAL,HIGH,False,False,True,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1028,2. record_0 (580).txt,Corte Suprema de Justicia,INSTITUTION_HEADER,2023.0,ACADEMIC_ARTICLE,HIGH,False,False,True,EXCLUIR,auto: academic_article de alta confianza
+DOC_1029,3.record_0 (787).txt,Corte Constitucional,TEXT_MENTION_HEADER,2022.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1030,3.record_0 (654).txt,Otras Entidades,FALLBACK,1991.0,UNCERTAIN,LOW,False,False,False,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_1031,3.record_0 (1211).txt,Corte Constitucional,TEXT_MENTION_HEADER,2023.0,JUDICIAL,HIGH,False,False,False,INCLUIR,auto: marcador judicial de alta confianza + alta corte
+DOC_1032,1.record_0 (308).txt,Otras Entidades,INSTITUTION_HEADER,2012.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1033,3.record_0 (1066).txt,Otras Entidades,FALLBACK,2016.0,ACADEMIC_ARTICLE,HIGH,False,False,False,EXCLUIR,auto: academic_article de alta confianza
+DOC_1034,3.record_0 (1808).txt,Otras Entidades,INSTITUTION_HEADER,2020.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1035,3.record_0 (893).txt,Otras Entidades,INSTITUTION_HEADER,2010.0,UNCERTAIN,LOW,False,False,False,EXCLUIR,"auto (confianza baja): perfil de bibliografia academica (autor+afiliacion), sin marcador judicial; PENDIENTE confirmacion humana"
+DOC_1036,3.record_0 (1041).txt,Otras Entidades,FALLBACK,,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1037,3.record_0 (247).txt,Otras Entidades,FALLBACK,2023.0,LAW_OR_DECREE_TEXT,HIGH,False,False,True,EXCLUIR,auto: law_or_decree_text de alta confianza
+DOC_1038,4. (18).txt,Otras Entidades,FALLBACK,1982.0,JUDICIAL,HIGH,False,False,True,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)
+DOC_1039,1.record_0 (64).txt,Otras Entidades,INSTITUTION_HEADER,2021.0,JUDICIAL,HIGH,False,False,False,EXCLUIR,auto: providencia judicial pero no es alta corte (Gate 0.3)

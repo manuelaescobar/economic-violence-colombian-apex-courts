@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "term": "mujeres",
+    "raw_count_cc": 3132,
+    "doc_freq_cc": 198,
+    "z_score_keyness": 10.768,
+    "log_odds_ratio": 0.962,
+    "bootstrap_ci_95": [
+      0.55853,
+      1.413218
+    ]
+  },
+  {
+    "rank": 2,
+    "term": "laboral",
+    "raw_count_cc": 1580,
+    "doc_freq_cc": 136,
+    "z_score_keyness": 7.241,
+    "log_odds_ratio": 0.8754,
+    "bootstrap_ci_95": [
+      0.375003,
+      1.456108
+    ]
+  },
+  {
+    "rank": 3,
+    "term": "acoso",
+    "raw_count_cc": 630,
+    "doc_freq_cc": 45,
+    "z_score_keyness": 6.037,
+    "log_odds_ratio": 1.9733,
+    "bootstrap_ci_95": [
+      0.889306,
+      3.362672
+    ]
+  },
+  {
+    "rank": 4,
+    "term": "derecho",
+    "raw_count_cc": 1141,
+    "doc_freq_cc": 190,
+    "z_score_keyness": 5.508,
+    "log_odds_ratio": 0.7324,
+    "bootstrap_ci_95": [
+      0.402916,
+      1.12787
+    ]
+  },
+  {
+    "rank": 5,
+    "term": "sexual",
+    "raw_count_cc": 1169,
+    "doc_freq_cc": 162,
+    "z_score_keyness": 5.449,
+    "log_odds_ratio": 0.7075,
+    "bootstrap_ci_95": [
+      0.174548,
+      1.329091
+    ]
+  },
+  {
+    "rank": 6,
+    "term": "desplazamiento",
+    "raw_count_cc": 534,
+    "doc_freq_cc": 51,
+    "z_score_keyness": 5.284,
+    "log_odds_ratio": 1.4562,
+    "bootstrap_ci_95": [
+      0.193565,
+      4.514678
+    ]
+  },
+  {
+    "rank": 7,
+    "term": "salud",
+    "raw_count_cc": 533,
+    "doc_freq_cc": 111,
+    "z_score_keyness": 5.277,
+    "log_odds_ratio": 1.4543,
+    "bootstrap_ci_95": [
+      0.735435,
+      2.722237
+    ]
+  },
+  {
+    "rank": 8,
+    "term": "acceso",
+    "raw_count_cc": 562,
+    "doc_freq_cc": 129,
+    "z_score_keyness": 5.231,
+    "log_odds_ratio": 1.3066,
+    "bootstrap_ci_95": [
+      0.718785,
+      2.180135
+    ]
+  },
+  {
+    "rank": 9,
+    "term": "atención",
+    "raw_count_cc": 559,
+    "doc_freq_cc": 110,
+    "z_score_keyness": 5.118,
+    "log_odds_ratio": 1.2423,
+    "bootstrap_ci_95": [
+      0.742662,
+      1.913808
+    ]
+  },
+  {
+    "rank": 10,
+    "term": "violencia sexual",
+    "raw_count_cc": 431,
+    "doc_freq_cc": 74,
+    "z_score_keyness": 4.94,
+    "log_odds_ratio": 2.3407,
+    "bootstrap_ci_95": [
+      1.282989,
+      4.269017
+    ]
+  },
+  {
+    "rank": 11,
+    "term": "derechos",
+    "raw_count_cc": 2200,
+    "doc_freq_cc": 231,
+    "z_score_keyness": 4.73,
+    "log_odds_ratio": 0.3845,
+    "bootstrap_ci_95": [
+      0.101383,
+      0.701935
+    ]
+  },
+  {
+    "rank": 12,
+    "term": "personas",
+    "raw_count_cc": 671,
+    "doc_freq_cc": 139,
+    "z_score_keyness": 4.695,
+    "log_odds_ratio": 0.8693,
+    "bootstrap_ci_95": [
+      0.477418,
+      1.389804
+    ]
+  },
+  {
+    "rank": 13,
+    "term": "conflicto armado",
+    "raw_count_cc": 373,
+    "doc_freq_cc": 58,
+    "z_score_keyness": 4.621,
+    "log_odds_ratio": 1.8283,
+    "bootstrap_ci_95": [
+      0.775895,
+      4.313095
+    ]
+  },
+  {
+    "rank": 14,
+    "term": "armado",
+    "raw_count_cc": 388,
+    "doc_freq_cc": 60,
+    "z_score_keyness": 4.613,
+    "log_odds_ratio": 1.5994,
+    "bootstrap_ci_95": [
+      0.657107,
+      3.431182
+    ]
+  },
+  {
+    "rank": 15,
+    "term": "trabajo",
+    "raw_count_cc": 689,
+    "doc_freq_cc": 103,
+    "z_score_keyness": 4.532,
+    "log_odds_ratio": 0.8019,
+    "bootstrap_ci_95": [
+      0.189058,
+      1.610182
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+Stage / Step,Count / Value,Percentage,Notes
+Raw Text Files in BD_completa,"4,400 files",100.0%,Initial raw repository
+Empty Corrupted Files Filtered,"2,914 files",66.2%,0-byte acquisition errors
+Valid Non-Empty Documents,"1,464 files",33.3%,Fully legible UTF-8 texts
+Exact Content Redundant Duplicates,424 files,9.6%,292 duplicate MD5 groups
+Canonical Master Unique Providencias,453 documents,10.3%,Primary analytical sample
+Total Extracted Sentences,"269,531 sentences",100.0%,L >= 25 characters
+Gender / VBG Relevant Sentences,"47,799 sentences",17.73%,Universal gender discourse base
+Decisions with Gender / VBG Content,453 documents,100.00%,Decisions addressing gender harm

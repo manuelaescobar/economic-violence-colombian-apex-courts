@@ -1,0 +1,64 @@
+# Diccionario estratificado de Violencia Económica y Patrimonial
+
+strict:
+  description: "Términos explícitos y autónomos que denotan inequívocamente violencia económica o patrimonial basada en género."
+  patterns:
+    - pattern: "\\bviolencia\\s+econ[oó]mica\\b"
+      name: "violencia_economica"
+    - pattern: "\\bviolencia\\s+patrimonial\\b"
+      name: "violencia_patrimonial"
+    - pattern: "\\bviolencia\\s+econ[oó]mica\\s+y\\s+patrimonial\\b"
+      name: "violencia_economica_patrimonial"
+    - pattern: "\\bdespojo\\s+(?:econ[oó]mico|patrimonial|de\\s+bienes)\\b"
+      name: "despojo_patrimonial"
+    - pattern: "\\bcontrol\\s+econ[oó]mico\\s+(?:de\\s+la\\s+pareja|machista|coercitivo)\\b"
+      name: "control_economico"
+    - pattern: "\\bviolencia\\s+basada\\s+en\\s+g[eé]nero\\s+(?:econ[oó]mica|patrimonial)\\b"
+      name: "vbg_economica"
+
+moderate:
+  description: "Términos específicos combinados con indicadores contextuales de coacción, abuso, subordinación o vulnerabilidad económica en relaciones de pareja o de género."
+  co_occurrence_terms:
+    - "\\bdependencia\\s+econ[oó]mica\\b"
+    - "\\bautonom[ií]a\\s+econ[oó]mica\\b"
+    - "\\bcoacci[oó]n\\s+econ[oó]mica\\b"
+    - "\\bexplotaci[oó]n\\s+econ[oó]mica\\b"
+    - "\\bincumplimiento\\s+(?:doloso|sistem[aá]tico|reiterado)\\s+de\\s+(?:la\\s+)?cuota\\s+alimentaria\\b"
+    - "\\basfixia\\s+econ[oó]mica\\b"
+    - "\\bdiscriminaci[oó]n\\s+econ[oó]mica\\b"
+    - "\\bsubordinaci[oó]n\\s+econ[oó]mica\\b"
+    - "\\babus(?:o|iva)\\s+(?:econ[oó]mic[oa]|patrimonial)\\b"
+  required_gender_context:
+    - "\\bmujer(?:es)?\\b"
+    - "\\bg[eé]nero\\b"
+    - "\\bv[ií]ctima(?:s)?\\b"
+    - "\\bpareja\\b"
+    - "\\bviolencia\\b"
+    - "\\bfeminicidio\\b"
+    - "\\bmaltrato\\b"
+
+broad:
+  description: "La definición léxica amplia tradicional (incluye litigios patrimoniales, alimentos, sociedad conyugal y términos económicos genéricos con mención de género)."
+  patterns:
+    - "\\becon[oó]mic[ao]s?\\b"
+    - "\\bpatrimoni(?:o|al(?:es)?)\\b"
+    - "\\baliment(?:os?|aria[s]?|icios?)\\b"
+    - "\\bbienes\\b"
+    - "\\blaboral(?:es)?\\b"
+    - "\\bingresos?\\b"
+    - "\\bdependencia\\b"
+    - "\\bdespojo\\b"
+    - "\\bcuota(?:s)?\\b"
+    - "\\bsociedad\\s+conyugal\\b"
+    - "\\bgananciales\\b"
+
+exclusions_false_positives:
+  description: "Patrones que indican contextos estrictamente no relevantes o de mero trámite contencioso sin dimensión de violencia."
+  patterns:
+    - "arancel judicial"
+    - "tasa de interés bancario"
+    - "contratación estatal"
+    - "licitación pública"
+    - "crédito hipotecario"
+    - "impuesto predial"
+    - "declaración de renta"

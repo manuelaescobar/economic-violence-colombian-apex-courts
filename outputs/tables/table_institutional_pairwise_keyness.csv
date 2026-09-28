@@ -1,0 +1,73 @@
+contrast,favors,term,doc_freq_a,doc_freq_b,log_odds,z_score,boot_ci_low,boot_ci_high,ci_excludes_zero
+CC_vs_CSJ,CC,mujeres,198,14,1.0769,9.126,0.5481,1.8197,True
+CC_vs_CSJ,CC,derechos,231,22,0.6798,5.845,0.287,1.2222,True
+CC_vs_CSJ,CC,sexual,162,11,1.1451,5.721,0.5389,1.9104,True
+CC_vs_CSJ,CC,laboral,136,15,0.8246,5.6,0.2176,1.5888,True
+CC_vs_CSJ,CC,discriminación,175,11,1.0464,5.323,0.4706,1.9559,True
+CC_vs_CSJ,CC,derecho,190,13,0.8778,4.934,0.4846,1.4829,True
+CC_vs_CSJ,CC,acoso,45,4,1.75,4.764,0.6471,3.2433,True
+CC_vs_CSJ,CC,personas,139,7,1.4765,4.747,0.9678,2.3274,True
+CC_vs_CSJ,CC,medidas,141,10,1.3227,4.634,0.8943,1.9193,True
+CC_vs_CSJ,CC,protección,166,10,0.766,4.164,0.3417,1.5025,True
+CC_vs_CSJ,CC,atención,110,7,1.2936,4.153,0.7376,2.1368,True
+CC_vs_CSJ,CC,acceso,129,6,1.2079,4.055,0.4652,2.5277,True
+CC_vs_CSJ,CSJ,meses,29,5,-2.3736,-10.746,-3.4297,0.2703,False
+CC_vs_CSJ,CSJ,señor,32,9,-1.7023,-8.02,-2.4463,-0.7968,True
+CC_vs_CSJ,CSJ,sic,21,5,-1.6709,-6.48,-2.8248,0.0913,False
+CC_vs_CSJ,CSJ,liquidación,9,6,-2.3233,-6.048,-3.3655,-1.1185,True
+CC_vs_CSJ,CSJ,alimentos,41,6,-1.0655,-6.04,-2.0448,1.2614,False
+CC_vs_CSJ,CSJ,dependencia económica,12,6,-2.433,-5.913,-3.3616,-1.0906,True
+CC_vs_CSJ,CSJ,víctima,149,18,-0.6887,-5.726,-1.1994,0.0806,False
+CC_vs_CSJ,CSJ,hija,11,7,-2.1179,-5.481,-3.1833,-1.064,True
+CC_vs_CSJ,CSJ,unión,10,5,-1.6573,-5.415,-3.4853,0.4622,False
+CC_vs_CSJ,CSJ,intrafamiliar,68,12,-1.0243,-5.186,-1.6746,-0.0424,True
+CC_vs_CSJ,CSJ,término,28,7,-1.6691,-5.056,-2.4777,-0.417,True
+CC_vs_CSJ,CSJ,señora,36,10,-1.1085,-4.995,-1.8696,-0.1915,True
+CC_vs_CE,CC,mujeres,198,12,1.1559,8.686,0.7374,1.7488,True
+CC_vs_CE,CC,laboral,136,11,1.321,6.488,0.7867,1.9756,True
+CC_vs_CE,CC,violencia,212,11,0.6737,5.495,0.0774,1.5952,True
+CC_vs_CE,CC,género,173,14,1.1211,5.15,0.6843,1.6463,True
+CC_vs_CE,CC,derecho,190,14,0.8781,4.55,0.4595,1.4621,True
+CC_vs_CE,CC,víctimas,166,10,0.8379,4.418,0.289,1.6972,True
+CC_vs_CE,CC,acoso,45,1,2.682,4.232,1.3143,4.7189,True
+CC_vs_CE,CC,acceso,129,3,1.779,4.152,1.1429,3.9154,True
+CC_vs_CE,CC,trabajo,103,5,1.1616,4.07,0.5809,2.3784,True
+CC_vs_CE,CC,salud,111,3,2.1781,4.061,1.3984,3.9432,True
+CC_vs_CE,CC,atención,110,5,1.4633,3.981,0.7937,2.883,True
+CC_vs_CE,CC,desplazamiento,51,1,3.0274,3.703,1.8013,4.5401,True
+CC_vs_CE,CE,responsabilidad,55,11,-2.0602,-13.625,-2.7535,-1.0227,True
+CC_vs_CE,CE,responsabilidad patrimonial,4,8,-3.6235,-11.796,-6.1516,-2.2351,True
+CC_vs_CE,CE,culpa,15,6,-3.1234,-11.159,-4.031,-1.3458,True
+CC_vs_CE,CE,privación,36,8,-2.2849,-9.572,-3.0059,-1.1413,True
+CC_vs_CE,CE,patrimonial,68,13,-1.6213,-9.516,-2.1662,-0.8449,True
+CC_vs_CE,CE,víctima,149,18,-1.0323,-9.261,-1.4382,-0.5424,True
+CC_vs_CE,CE,daño,75,14,-1.39,-8.449,-1.9271,-0.6816,True
+CC_vs_CE,CE,libertad,97,10,-1.21,-8.025,-1.7609,-0.2519,True
+CC_vs_CE,CE,injusta,2,7,-4.5168,-7.749,-6.7143,-3.072,True
+CC_vs_CE,CE,señor,32,12,-1.6901,-7.448,-2.3507,-0.9587,True
+CC_vs_CE,CE,privación libertad,5,6,-2.9347,-7.182,-4.683,-1.3393,True
+CC_vs_CE,CE,privación injusta,1,6,-5.187,-6.066,-6.849,-3.5296,True
+CSJ_vs_CE,CSJ,económica,22,9,0.949,3.906,0.4258,1.6165,True
+CSJ_vs_CE,CSJ,meses,5,2,2.1518,3.841,-0.6917,4.4603,False
+CSJ_vs_CE,CSJ,alimentos,6,1,3.0806,3.701,1.2757,4.6952,True
+CSJ_vs_CE,CSJ,intrafamiliar,12,2,1.9997,3.543,0.7427,4.2189,True
+CSJ_vs_CE,CSJ,violencia intrafamiliar,10,2,2.2683,3.439,1.0229,4.147,True
+CSJ_vs_CE,CSJ,mayor,13,3,1.896,3.341,0.9898,3.7169,True
+CSJ_vs_CE,CSJ,género,23,14,0.7833,3.084,0.1631,1.4089,True
+CSJ_vs_CE,CSJ,dependencia,11,1,2.0316,3.047,0.7936,4.0786,True
+CSJ_vs_CE,CSJ,persona,7,7,1.0331,2.791,-0.5272,2.1258,False
+CSJ_vs_CE,CSJ,necesidad,6,4,1.2865,2.716,-0.782,2.7782,False
+CSJ_vs_CE,CSJ,violencia,28,11,0.392,2.586,-0.3423,1.3924,False
+CSJ_vs_CE,CSJ,capacidad,5,5,1.058,2.547,-1.3426,2.5176,False
+CSJ_vs_CE,CE,responsabilidad,2,11,-3.4058,-5.282,-5.2775,-2.083,True
+CSJ_vs_CE,CE,libertad,9,10,-1.5278,-5.007,-2.5542,-0.5744,True
+CSJ_vs_CE,CE,privación,2,8,-2.5665,-3.885,-4.4678,-1.2052,True
+CSJ_vs_CE,CE,culpa,1,6,-3.1477,-3.761,-4.7641,-1.2761,True
+CSJ_vs_CE,CE,patrimonial,11,13,-0.9438,-3.536,-1.6685,-0.1504,True
+CSJ_vs_CE,CE,medidas,10,9,-1.1238,-3.377,-1.8681,-0.3356,True
+CSJ_vs_CE,CE,policía,1,7,-2.1138,-3.126,-4.1394,-0.7194,True
+CSJ_vs_CE,CE,responsabilidad patrimonial,0,8,-4.3738,-3.07,-4.9675,-3.2013,True
+CSJ_vs_CE,CE,derechos humanos,6,10,-1.0268,-3.042,-2.3213,-0.1702,True
+CSJ_vs_CE,CE,respeto,1,8,-2.0549,-3.028,-3.9688,-0.9397,True
+CSJ_vs_CE,CE,discriminación,11,13,-0.7308,-3.002,-1.7278,0.2593,False
+CSJ_vs_CE,CE,investigación,3,5,-1.3165,-2.925,-3.4547,0.4194,False
