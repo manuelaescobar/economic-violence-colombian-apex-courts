@@ -6,7 +6,7 @@ Channeling of Economic Violence Against Women in Colombian Apex Courts Jurisprud
 under revision at *Humanities and Social Sciences Communications* (submission
 9c47b88b-0dd9-4cc6-954d-e4b277f5dbd7).
 
-DOI: `DOI_PENDING`
+DOI: [10.5281/zenodo.23018666](https://doi.org/10.5281/zenodo.23018666)
 
 ---
 
@@ -230,4 +230,4 @@ Data (`data/`, `outputs/`): Creative Commons Attribution 4.0 International (CC B
 
 ## 9. Citation
 
-See `CITATION.cff`. Archived release: `v1.0-hssc-minor-revision`, DOI `DOI_PENDING`.
+See `CITATION.cff`. Archived release: `v1.0-hssc-minor-revision`, DOI [10.5281/zenodo.23018666](https://doi.org/10.5281/zenodo.23018666).
